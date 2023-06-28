@@ -157,16 +157,6 @@ const Login = () => {
                         Login to Your Account
                     </button>
                 </form>
-
-                <div className="flex justify-center gap-1 text-[#8B8D93] mt-5">
-                    <span>Not a member yet?</span>
-                    <Link
-                        href="/register"
-                        className="font-semibold text-white underline underline-offset-2 cursor-pointer"
-                    >
-                        Register Now
-                    </Link>
-                </div>
             </div>
         </div>
     )
