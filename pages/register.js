@@ -1,10 +1,8 @@
 import { useEffect } from "react";
 
-import { auth, storage } from "../firebase/firebase";
-import { db } from "../firebase/firebase";
+import { auth} from "../firebase/firebase";
 import {
     createUserWithEmailAndPassword,
-    updateProfile,
     GoogleAuthProvider,
     FacebookAuthProvider,
     signInWithPopup,
@@ -17,7 +15,6 @@ import { useAuth } from "@/context/authContext";
 
 import { IoLogoGoogle, IoLogoFacebook } from "react-icons/io";
 import Link from "next/link";
-import { Zoom } from "react-toastify";
 const gProvider = new GoogleAuthProvider();
 const fProvider = new FacebookAuthProvider();
 
