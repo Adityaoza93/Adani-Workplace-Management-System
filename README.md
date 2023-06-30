@@ -19,12 +19,11 @@ AWMS Inventory Management System is a web-based application developed specifical
 
 ## Features
 
-- **Inventory Tracking**: Keep track of inventory levels, including stock in hand, stock sold, and stock received.
-- **Order Management**: Manage incoming and outgoing orders, including order placement, order fulfillment, and order cancellation.
-- **Reporting**: Generate detailed reports on inventory levels, sales, and order history.
+- **Inventory Tracking**: Keep track of inventory level.
+- **Management**: Manage inventory.
+- **Reporting**: Generate detailed reports on inventory levels.
 - **User Authentication**: Secure access to the system with user authentication and authorization.
 - **User Roles**: Assign different roles to users based on their responsibilities and restrict access to specific features accordingly.
-- **Dashboard**: Provide a comprehensive dashboard with key performance indicators and visualizations for quick insights.
 - **Responsive UI**: Ensure a responsive and intuitive user interface for seamless usage on various devices.
 
 ## Tech Stack
@@ -91,6 +90,12 @@ npm run dev
 
 This will start the development server, and you can access the application by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
 
+## Developer Information
+
+Name - Aditya Oza
+Email - adityaoza93@gmail.com
+Contact no. - 9370527802
+
 ## Contributing
 
 Contributions to AWMS Inventory Management System are always welcome. If you find any issues or have suggestions for improvements, please feel free to create a pull request or submit an issue in the repository.
@@ -98,3 +103,4 @@ Contributions to AWMS Inventory Management System are always welcome. If you fin
 ## License
 
 The AWMS Inventory Management System is licensed under the [MIT License](LICENSE).
+
