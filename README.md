@@ -93,7 +93,9 @@ This will start the development server, and you can access the application by na
 ## Developer Information
 
 Name - Aditya Oza
+
 Email - adityaoza93@gmail.com
+
 Contact no. - 9370527802
 
 ## Contributing
